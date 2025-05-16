@@ -6,7 +6,8 @@
     "node": ">=18.x"
   },
   "scripts": {
-    "dev": "vercel dev"
+    "dev": "vercel dev",
+    "build": "echo 'Build completed successfully'"
   },
   "dependencies": {}
 }
